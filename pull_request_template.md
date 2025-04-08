@@ -1,4 +1,4 @@
-<!-- I want to review in Japanese. -->
+<!-- Please write your review comments in Japanese. -->
 ## 対応期限
 
 YYYY/MM/DD で記載する｡
